@@ -46,7 +46,6 @@ public class MainActivity extends Activity {
         btnView = (Button) findViewById(R.id.id_btn);
 
         //Git测试成功
-        //Git测试成功
         //Git多人测试
 
 //        File cacheFile = new File(getCacheDir(), "HttpResponseCache");
