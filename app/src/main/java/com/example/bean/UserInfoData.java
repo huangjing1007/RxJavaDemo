@@ -6,6 +6,4 @@ package com.example.bean;
 public class UserInfoData {
 
     public String uid;
-    public String nickName;
-    public String phone;
 }
