@@ -44,6 +44,9 @@ public class MainActivity extends Activity {
         textView = (TextView) findViewById(R.id.id_text);
 
         btnView = (Button) findViewById(R.id.id_btn);
+        
+        //test
+        //test
 
 //        File cacheFile = new File(getCacheDir(), "HttpResponseCache");
 //        Cache cache = new Cache(cacheFile, 1024 * 1024 * 10); //10Mb
