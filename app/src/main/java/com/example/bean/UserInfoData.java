@@ -6,5 +6,7 @@ package com.example.bean;
 public class UserInfoData {
 
     public String uid;
+	public String username;
+    public String nick;
 		 
 }
